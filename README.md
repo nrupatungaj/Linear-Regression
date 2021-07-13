@@ -1,5 +1,6 @@
 Hi…!
 Here we go with a simple explanation for understanding the Linear Regression through python coding. (Without any use of libraries)
+
 Which is explained in the simple step wise:
 	Initializing X (input) and Y (actual output)
 	Calculation of error for each value in the variable using the mean of that variable
@@ -8,6 +9,7 @@ Which is explained in the simple step wise:
 	Calculation of error through RMSE
 
 Calculation of error for each value in the variable using the mean of that variable:
+
 	Calculating each error of value by ( X – mean(X) ) 
 	Mean = 1/n  × ∑_(i=1)^n x_i 
 Multiplying the corresponding values of error of X & Y for future calculation in B1
