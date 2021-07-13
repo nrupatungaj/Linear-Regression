@@ -26,4 +26,5 @@ Calculation of error through RMSE:
 	RMSE = √((∑_(I=1)^n (p_i- y_i) ^2 )/n)  			p_i = the predicted values by the model
 Here the underlying theory or computation is not showed and can be referred in the online sources.
 Have a nice coding
+
 ThankQ
