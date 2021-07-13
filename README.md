@@ -1,4 +1,4 @@
-Hi…!
+:wave: Hi…!
 
 Here we go with a simple explanation for understanding the Linear Regression through python coding. (Without any use of libraries)
 
@@ -45,4 +45,4 @@ Here the underlying theory or computation is not showed and can be referred in t
 
 Have a nice coding
 
-ThankQ
+ThankQ :handshake:
