@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 00:22:39 2021
-
-@author: Nachiketu
-"""
 #function for Mean calculation:
 def mean(x):
     total = 0
