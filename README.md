@@ -1,4 +1,4 @@
-:wave: Hi…!
+:smiley: Hi…!
 
 Here we go with a simple explanation for understanding the Linear Regression through python coding. (Without any use of libraries)
 
@@ -43,6 +43,6 @@ Calculation of error through RMSE:
 	
 Here the underlying theory or computation is not showed and can be referred in the online sources.
 
-Have a nice coding
+Have a nice coding :relaxed:
 
 ThankQ :handshake:
