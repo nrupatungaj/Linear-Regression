@@ -45,4 +45,4 @@ Here the underlying theory or computation is not showed and can be referred in t
 
 Have a nice coding :relaxed:
 
-ThankQ :handshake:
+ThankQ :handshake: -_N_:writing_hand:	
